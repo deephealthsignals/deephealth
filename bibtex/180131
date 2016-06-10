@@ -1,0 +1,11 @@
+@ARTICLE{180131, 
+author={L. w. H. Lehman and R. P. Adams and L. Mayaud and G. B. Moody and A. Malhotra and R. G. Mark and S. Nemati}, 
+journal={IEEE Journal of Biomedical and Health Informatics}, 
+title={A Physiological Time Series Dynamics-Based Approach to Patient Monitoring and Outcome Prediction}, 
+year={2015}, 
+volume={19}, 
+number={3}, 
+pages={1068-1076},  
+doi={10.1109/JBHI.2014.2330827}, 
+ISSN={2168-2194}, 
+month={May},}

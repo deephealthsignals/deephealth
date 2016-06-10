@@ -1,0 +1,9 @@
+@article {yeary2006spectral,
+	title = {Spectral signature calculations and target tracking for remote sensing},
+	journal = {Instrumentation and Measurement, IEEE Transactions on},
+	volume = {55},
+	year = {2006},
+	pages = {1430{\textendash}1442},
+	publisher = {IEEE},
+	author = {Yeary, Mark B and Zhai, Yan and Yu, Tian-You and Nematifar, Shamim and Shapiro, Alan}
+}

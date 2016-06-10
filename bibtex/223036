@@ -1,0 +1,8 @@
+@proceedings {223036,
+	title = {Supervised Learning in Dynamic Bayesian Networks},
+	journal = {Neural Information Processing Systems (NIPS) Workshop on Deep Learning and Representation Learning},
+	year = {2014},
+	address = {Montreal, Canada},
+	url = {http://www.dlworkshop.org/accepted-papers},
+	author = {Nemati, S and Adams, RP}
+}

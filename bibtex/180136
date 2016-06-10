@@ -1,0 +1,8 @@
+@magazinearticle {nemati2014data,
+	title = {Data-Driven Phenotyping: graphical models for model-based phenotyping of sleep apnea},
+	journal = {IEEE Pulse},
+	volume = {5},
+	year = {2014},
+	pages = {45-48},
+	author = {Nemati, S and Orr, J and Malhotra, A}
+}

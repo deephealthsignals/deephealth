@@ -1,0 +1,9 @@
+@article {nemati2013respiration,
+	title = {Respiration and heart rate complexity: effects of age and gender assessed by band-limited transfer entropy},
+	journal = {Respiratory physiology \& neurobiology},
+	volume = {189},
+	year = {2013},
+	pages = {27{\textendash}33},
+	publisher = {Elsevier},
+	author = {Nemati, S and Edwards, BA and Joon Lee and Pittman-Polletta, B and Butler, J. P. and Malhotra, A}
+}

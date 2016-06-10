@@ -1,0 +1,9 @@
+@conference {zhai2006visual,
+	title = {Visual target tracking using improved and computationally efficient particle filtering},
+	booktitle = {Image Processing, 2006 IEEE International Conference on},
+	year = {2006},
+	pages = {1757{\textendash}1760},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Zhai, Yan and Yeary, M and Noyer, Jean-Charles and Havlicek, J and Nemati, Shamim and Lanvin, Patrick}
+}

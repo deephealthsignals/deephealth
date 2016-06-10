@@ -1,0 +1,9 @@
+@conference {clifford2008artificial,
+	title = {An artificial multi-channel model for generating abnormal electrocardiographic rhythms},
+	booktitle = {Computers in Cardiology, 2008},
+	year = {2008},
+	pages = {773{\textendash}776},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Clifford, GD and Nemati, S and Sameni, R}
+}

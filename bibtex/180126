@@ -1,0 +1,8 @@
+@INPROCEEDINGS{180126, 
+author={M. Ghassemi and L. w. Lehman and J. Snoek and S. Nemati}, 
+booktitle={Computing in Cardiology 2014}, 
+title={Global optimization approaches for parameter tuning in biomedical signal processing: A focus on multi-scale entropy}, 
+year={2014}, 
+pages={993-996}, 
+ISSN={0276-6574}, 
+month={Sept},}

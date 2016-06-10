@@ -1,0 +1,9 @@
+@conference {nemati2007spectral,
+	title = {Spectral Signature Classification Using A Support Vector Classifier For Real-Time Instrumentation},
+	booktitle = {Instrumentation and Measurement Technology Conference Proceedings, 2007. IMTC 2007. IEEE},
+	year = {2007},
+	pages = {1{\textendash}4},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Nemati, S and Yeary, M and Yu, T-Y and Wang, Y. and Zhai, Y and Fagg, AH}
+}

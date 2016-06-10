@@ -1,0 +1,8 @@
+@conference {terrill2013model,
+	title = {Model-based quantification of loop gain using clinical polysomnography in patients with obstructive sleep apnea},
+	booktitle = {Conf Proc IEEE Eng Med Biol Soc.},
+	year = {2013},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Terrill, PI and Edwards, BA and Wellman, A and Nemati, S and Owens, RL and Butler, J. P. and Malhotra, A and Sands, SA}
+}

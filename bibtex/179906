@@ -1,0 +1,9 @@
+@article {yeary2007tornadic,
+	title = {Tornadic time-series detection using Eigen analysis and a machine intelligence-based approach},
+	journal = {Geoscience and Remote Sensing Letters, IEEE},
+	volume = {4},
+	year = {2007},
+	pages = {335{\textendash}339},
+	publisher = {IEEE},
+	author = {Yeary, M and Nemati, S and Yu, T-Y and Wang, Y.}
+}

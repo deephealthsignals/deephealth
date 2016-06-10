@@ -1,0 +1,6 @@
+@conference {nemati2007constructing,
+	title = {Constructing robust neural decoders using limited training data},
+	booktitle = {IEEE TRANSACTIONS IN BIOMEDICAL ENGINEERING},
+	year = {2007},
+	author = {Nemati, Shamim and Hatsopoulos, Nicholas G and Miller, Lee E and Fagg, Andrew H}
+}

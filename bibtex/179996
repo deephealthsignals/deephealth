@@ -1,0 +1,9 @@
+@conference {zhai2007workshop,
+	title = {Workshop on Signal Processing Applications for Public Security and Forensics},
+	booktitle = {Signal Processing Applications for Public Security and Forensics, 2007. SAFE {\textquoteright}07. IEEE Workshop on},
+	year = {2007},
+	pages = {ii{\textendash}v},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Zhai, Yan and Yeary, Mark and Havlicek, Joseph and Nemati, Shamim and Chaudhari, Jayashri and Sen-ching, S Cheung and Venkatesh, M Vijay and Grezl, Frantisˇek and Schwarz, Petr and Glembek, Ondˇrej and others}
+}

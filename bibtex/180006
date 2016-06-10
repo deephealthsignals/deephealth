@@ -1,0 +1,10 @@
+@conference {yeary2005spectral,
+	title = {Spectral signature calculations for remote sensing},
+	booktitle = {Instrumentation and Measurement Technology Conference, 2005. IMTC 2005. Proceedings of the IEEE},
+	volume = {3},
+	year = {2005},
+	pages = {2071{\textendash}2075},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Yeary, M and Yu, T-Y and Nematifar, S and A. Shapiro}
+}

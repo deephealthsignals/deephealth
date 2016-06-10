@@ -1,0 +1,9 @@
+@article {oster2015semi,
+	title = {Semi-supervised ECG Ventricular Beat Classification with Novelty Detection Based on Switching Kalman Filters},
+	journal = {IEEE Transactions on Biomedical Engineering},
+	number = {99},
+	year = {2015},
+	publisher = {IEEE},
+	url = {http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=7038137},
+	author = {Oster, Julien and Behar, Joachim and Sayadi, Omid and Nemati, Shamim and Johnson, A and Clifford, Gari}
+}

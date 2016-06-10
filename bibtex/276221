@@ -1,0 +1,11 @@
+@INPROCEEDINGS{276221, 
+author={M. M. Ghassemi and R. G. Mark and S. Nemati}, 
+booktitle={2015 Computing in Cardiology Conference (CinC)}, 
+title={A visualization of evolving clinical sentiment using vector representations of clinical notes}, 
+year={2015}, 
+pages={629-632}, 
+doi={10.1109/CIC.2015.7410989}, 
+ISSN={2325-8861}, 
+month={Sept},
+organization={IEEE}
+}

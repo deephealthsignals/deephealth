@@ -1,0 +1,9 @@
+@conference {khaustov2008open,
+	title = {An open-source standard T-wave alternans detector for benchmarking},
+	booktitle = {Computers in Cardiology, 2008},
+	year = {2008},
+	pages = {509{\textendash}512},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Khaustov, A and Nemati, S and Clifford, GD}
+}

@@ -1,0 +1,9 @@
+@article {nemati2011nonparametric,
+	title = {A nonparametric surrogate-based test of significance for T-wave alternans detection},
+	journal = {Biomedical Engineering, IEEE Transactions on},
+	volume = {58},
+	year = {2011},
+	pages = {1356{\textendash}1364},
+	publisher = {IEEE},
+	author = {Nemati, Shamim and Abdala, Omar and Monasterio, Violeta and Yim-Yeh, Susie and Malhotra, Atul and Clifford, Gari D}
+}

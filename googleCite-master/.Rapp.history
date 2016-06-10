@@ -1,0 +1,31 @@
+cd ('~/Downloads/webpage/googleCite-master/googleCite.r')
+cd('~/Downloads/webpage/googleCite-master/googleCite.r')
+cd '~/Downloads/webpage/googleCite-master/googleCite.r'
+!cd '~/Downloads/webpage/googleCite-master/googleCite.r'
+!cd '~/Downloads/webpage/googleCite-master/
+''
+cd '~/Downloads/webpage/googleCite-master/'
+cd ~/Downloads/webpage/googleCite-master/
+pwd
+ls
+googleCite
+source("/Users/Shamim/Downloads/webpage/googleCite-master/googleCite.r")
+library(devtools)#
+source_gist(6424430)
+out = googleCite("http://scholar.google.com/citations?user=nFW-2Q8AAAAJ&hl=en",pdfname="rafa_wordcloud.pdf")
+out = googleCite("http://scholar.google.com/citations?user=nFW-2Q8AAAAJ&hl=en",pdfname="rafa_wordcloud.pdf")
+ls
+out = googleCite("http://scholar.google.com/citations?user=nFW-2Q8AAAAJ&hl=en",pdfname="rafa_wordcloud.pdf")
+out = googleCite("http://scholar.google.com/citations?user=nFW-2Q8AAAAJ&hl=en",pdfname="rafa_wordcloud.pdf")
+ls
+dir
+source("/Users/Shamim/Downloads/webpage/googleCite-master/googleCite.r")
+out = googleCite("http://scholar.google.com/citations?user=nFW-2Q8AAAAJ&hl=en",pdfname="rafa_wordcloud.pdf")
+library(devtools)
+source(“http://biostat.jhsph.edu/~jleek/code/googleCite.r”)
+source("http://biostat.jhsph.edu/~jleek/code/googleCite.r")
+source("/Users/Shamim/Downloads/webpage/googleCite-master/")
+out = googleCite("http://scholar.google.com/citations?user=nFW-2Q8AAAAJ&hl=en",pdfname="rafa_wordcloud.pdf")
+source("/Users/Shamim/Downloads/webpage/googleCite-master/googleCite.r")
+source("/Users/Shamim/Downloads/webpage/googleCite-master/googleCite.r")
+source("http://biostat.jhsph.edu/~jleek/code/googleCite.r")

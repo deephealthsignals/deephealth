@@ -1,0 +1,9 @@
+@conference {lehman2012discovering,
+	title = {Discovering shared dynamics in physiological signals: Application to patient monitoring in ICU},
+	booktitle = {Engineering in Medicine and Biology Society (EMBC), 2012 Annual International Conference of the IEEE},
+	year = {2012},
+	pages = {5939{\textendash}5942},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Lehman, Li-wei H and Nemati, Shamim and Adams, Ryan Prescott and Mark, Roger Greenwood}
+}

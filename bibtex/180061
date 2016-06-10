@@ -1,0 +1,9 @@
+@conference {lehman2013tracking,
+	title = {Tracking progression of patient state of health in critical care using inferred shared dynamics in physiological time series},
+	booktitle = {Engineering in Medicine and Biology Society (EMBC), 2013 35th Annual International Conference of the IEEE},
+	year = {2013},
+	pages = {7072{\textendash}7075},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Lehman, Li-wei H and Nemati, Shamim and Adams, Ryan P and Moody, George and Malhotra, Atul and Mark, Roger G}
+}

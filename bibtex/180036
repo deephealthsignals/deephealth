@@ -1,0 +1,10 @@
+@conference {wellman2011relationship,
+	title = {RELATIONSHIP BETWEEN THE UPPER AIRWAY RESPONSE TO LOADING IN NREM SLEEP AND APNEA SEVERITY IN REM SLEEP},
+	booktitle = {SLEEP},
+	volume = {34},
+	year = {2011},
+	pages = {A159{\textendash}A160},
+	publisher = {AMER ACAD SLEEP MEDICINE ONE WESTBROOK CORPORATE CTR, STE 920, WESTCHESTER, IL 60154 USA},
+	organization = {AMER ACAD SLEEP MEDICINE ONE WESTBROOK CORPORATE CTR, STE 920, WESTCHESTER, IL 60154 USA},
+	author = {Wellman, A and Eckert, DJ and Jordan, AS and Edwards, BA and Owens, RL and Sands, SS and Nemati, S and Butler, J and Malhotra, A and White, DP}
+}

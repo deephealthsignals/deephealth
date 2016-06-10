@@ -1,0 +1,9 @@
+@article {yeary2009support,
+	title = {A support-vector-machine-based approach to RF sensor spectral signature classifications},
+	journal = {Instrumentation and Measurement, IEEE Transactions on},
+	volume = {58},
+	year = {2009},
+	pages = {221{\textendash}228},
+	publisher = {IEEE},
+	author = {Yeary, Mark B and Nemati, Shamim and Yu, Tian-You and Wang, Yadong and Zhai, Yan}
+}

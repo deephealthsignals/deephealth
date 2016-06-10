@@ -1,0 +1,10 @@
+@conference {sands2012ventilatory,
+	title = {VENTILATORY OSCILLATIONS IN STABLE CONTROL SYSTEMS AS AN INTERACTION BETWEEN EXTERNAL DISTURBANCES AND FEEDBACK STABILITY},
+	booktitle = {SLEEP},
+	volume = {35},
+	year = {2012},
+	pages = {A48{\textendash}A48},
+	publisher = {AMER ACAD SLEEP MEDICINE ONE WESTBROOK CORPORATE CTR, STE 920, WESTCHESTER, IL 60154 USA},
+	organization = {AMER ACAD SLEEP MEDICINE ONE WESTBROOK CORPORATE CTR, STE 920, WESTCHESTER, IL 60154 USA},
+	author = {Sands, SA and Nemati, S and Mebrate, Y and Edwards, BA and Manisty, C and Wellman, A and Willson, K and Francis, DP and Malhotra, A}
+}

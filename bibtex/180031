@@ -1,0 +1,9 @@
+@conference {nemati2013learning,
+	title = {Learning Outcome-Discriminative Dynamics in Multivariate Physiological Cohort Time Series},
+	booktitle = {Conf Proc IEEE Eng Med Biol Soc.},
+	year = {2013},
+	pages = {7104{\textendash}7107},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Nemati, S and Lehman, L and Adams, RP}
+}

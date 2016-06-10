@@ -1,0 +1,8 @@
+@article {wang2008tornado,
+	title = {Tornado detection using a neuro-fuzzy system to integrate shear and spectral signatures},
+	journal = {Journal of Atmospheric and Oceanic Technology},
+	volume = {25},
+	year = {2008},
+	pages = {1136{\textendash}1148},
+	author = {Wang, Yadong and Yu, Tian-You and Yeary, Mark and Shapiro, Alan and Nemati, Shamim and Foster, Michael and Andra Jr, David L and Jain, Michael}
+}

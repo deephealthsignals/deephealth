@@ -1,0 +1,10 @@
+@INPROCEEDINGS{276222, 
+author={L. w. H. Lehman and S. Nemati and R. G. Mark}, 
+booktitle={2015 Computing in Cardiology Conference (CinC)}, 
+title={Hemodynamic monitoring using switching autoregressive dynamics of multivariate vital sign time series}, 
+year={2015}, 
+pages={1065-1068},  
+doi={10.1109/CIC.2015.7411098}, 
+ISSN={2325-8861}, 
+month={Sept}
+}

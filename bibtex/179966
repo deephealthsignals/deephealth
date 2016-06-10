@@ -1,0 +1,9 @@
+@conference {zhai2007enhanced,
+	title = {Enhanced video surveillance using a multiple model particle filter},
+	booktitle = {Signal Processing Applications for Public Security and Forensics, 2007. SAFE{\textquoteright}07. IEEE Workshop on},
+	year = {2007},
+	pages = {1{\textendash}4},
+	publisher = {IET},
+	organization = {IET},
+	author = {Zhai, Yan and Yeary, Mark and Nemati, Shamim}
+}

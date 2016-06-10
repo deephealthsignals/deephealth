@@ -1,0 +1,10 @@
+@inbook {344581,
+	title = {Bayesian nonparametric learning of switching dynamics in cohort physiological time series: application in critical care patient monitoring},
+	booktitle = {Advanced State Space Methods for Neural and Clinical Data},
+	year = {2015},
+	pages = {257},
+	publisher = {Cambridge University Press},
+	organization = {Cambridge University Press},
+	url = {https://books.google.co.in/books?hl=en\&lr=\&id=1Z2NCgAAQBAJ\&oi=fnd\&pg=PA257\&dq=11+Bayesian+nonparametric+learning+of+switching+dynamics+in+cohort+physiological+time+series:+application+in+critical+care+patient+monitoring\&ots=mCrTCpd7jc\&sig=HayUjOcm8jq9xqPz},
+	author = {Li-wei Lehman and Matthew J. Johnson and Nemati, Shamim and Ryan P. Adams and Roger G. Mark}
+}

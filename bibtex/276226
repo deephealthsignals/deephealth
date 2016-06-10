@@ -1,0 +1,9 @@
+@INPROCEEDINGS{276226, 
+author={L. w. Lehman and M. Ghassemi and J. Snoek and S. Nemati}, 
+booktitle={2015 Computing in Cardiology Conference (CinC)}, 
+title={Patient prognosis from vital sign time series: Combining convolutional neural networks with a dynamical systems approach}, 
+year={2015}, 
+pages={1069-1072}, 
+doi={10.1109/CIC.2015.7411099}, 
+ISSN={2325-8861}, 
+month={Sept},}

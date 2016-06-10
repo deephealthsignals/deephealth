@@ -1,0 +1,9 @@
+@conference {ozaydin2006orthogonal,
+	title = {Orthogonal projections and discrete fractional Fourier transforms},
+	booktitle = {Digital Signal Processing Workshop, 12th-Signal Processing Education Workshop, 4th},
+	year = {2006},
+	pages = {429{\textendash}433},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Ozaydin, M and Nemati, S and Yeary, M and DeBrunner, V}
+}

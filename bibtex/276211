@@ -1,0 +1,9 @@
+@conference {nemati2014fast,
+	title = {A fast and memory-efficient algorithm for learning and retrieval of phenotypic dynamics in multivariate cohort time series},
+	booktitle = {Big Data (Big Data), 2014 IEEE International Conference on},
+	year = {2014},
+	pages = {41{\textendash}44},
+	publisher = {IEEE},
+	organization = {IEEE},
+	author = {Nemati, Shamim and Ghassemi, Mohammad M}
+}
