@@ -1,6 +1,6 @@
-name: The Clifford Lab
-description: Website for Clifford Lab at Emory University
-url: gdclifford.info
+name: The Nemati Lab
+description: Website for Nemati Lab at Emory University
+url: NematiLab.info
 permalink: :categories/:title
 exclude: [vendor]
 markdown: kramdown
